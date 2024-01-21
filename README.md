@@ -1,0 +1,2 @@
+# TMUX
+My tmux setup
